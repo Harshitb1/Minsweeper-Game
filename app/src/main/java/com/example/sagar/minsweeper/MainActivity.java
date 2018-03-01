@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 board[i][j] = button;
             }
             rootLayout.addView(rowLayout);
-
+            //master
         }
 
     }
